@@ -1,0 +1,3 @@
+meta 1- Aprender sobre git
+meta 2- Aprender mas sobre JavaScript
+meta 3- Participar en proyectos de desarrollo web
